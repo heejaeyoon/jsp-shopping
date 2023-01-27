@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+#footer_footer {
+	width: 100%;
+	background: #263343;
+	color: white;
+}
+
+#footer_footer>table {
+	margin: auto;
+}
+
+#footer_footer>table>tr {
+	margin: auto;
+	background: #263343;
+}
+
+.bottomtop {
+	font-size: 15px;
+}
+
+.bottombt {
+	font-size: 12px;
+}
